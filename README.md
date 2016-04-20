@@ -4,6 +4,7 @@ Backup da configuração do Fortigate
 Editar o arquivo fortigate-backup.sh e mudar o usuário e senha
 
 Exceutar:
+
 ./fortigate-backup.sh ip:portahttps nomedoarquivo
 ./fortigate-backup.sh 192.168.0.1:443 fortigate-empresa
 
