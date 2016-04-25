@@ -16,6 +16,7 @@ Para deixar automatico você coloca no contrab para executar 1x por dia ou 1x po
 depende da quantidade de vezes que você muda a configuração, assim sempre o backup vai
 estar atualizado.
 
-
+Para acompanhar as atualizações:
+https://telegram.me/githubdiegosmaia
 
 https://br.linkedin.com/pub/diego-santos-maia/2b/b60/173
